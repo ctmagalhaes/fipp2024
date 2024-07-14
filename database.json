@@ -1,12 +1,13 @@
 {
     "posts": [
         {
+            "category": "Poetry Talks",
             "titulo_evento": "Abertura do Festival",
             "sinopse_evento": "",
             "data_evento": "26/07",
             "hora_evento": "18H",
             "local_evento": "Green Garden Pestana Palácio",
-            "rubrica_evento": "Poetry Talks",
+            "rubrica_evento": "Poetry Talk",
             "interveniente01": "Inês Lourenço",
             "interveniente02": "Chus Pato",
             "interveniente03": "José Manuel",
@@ -15,6 +16,114 @@
             "sinopse_intervenientes": "",
             "info_essenciais": "",
             "imagens": "https://ctmagalhaes.github.io/fipp2024/images/Autores3.png"
+        },
+
+        {
+            "category": "Poetry Sounds",
+            "titulo_evento": "A Brasileira 27",
+            "sinopse_evento": "",
+            "data_evento": "27/07",
+            "hora_evento": "18H",
+            "local_evento": "A Brasileira",
+            "rubrica_evento": "Poetry Sound",
+            "interveniente01": "Sinais de Cena",
+            "interveniente02": "",
+            "interveniente03": "",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Labs",
+            "titulo_evento": "Escrita criativa para Poesia",
+            "sinopse_evento": "",
+            "data_evento": "28/07",
+            "hora_evento": "10h30 & 11h45",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Lab",
+            "interveniente01": "Professora Idalinda Fitas",
+            "interveniente02": "",
+            "interveniente03": "",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "Lotação: 8 famílias por sessão. Duração: 45 minutos por sessão. A partir dos 8 anos.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Talks",
+            "titulo_evento": "Poetry Talk 28",
+            "sinopse_evento": "",
+            "data_evento": "28/07",
+            "hora_evento": "15H30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Talk",
+            "interveniente01": "Marta Bernardes",
+            "interveniente02": "Tiago Alves Costa",
+            "interveniente03": "Ismael Ramos",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Talks",
+            "titulo_evento": "Conversa Ruir3.8",
+            "sinopse_evento": "",
+            "data_evento": "03/08",
+            "hora_evento": "15H30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Talk",
+            "interveniente01": "Fernando António Machado",
+            "interveniente02": "Ana Rocha",
+            "interveniente03": "Marga Tojo Andrés",
+            "interveniente04": "Miguel Royo",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Labs",
+            "titulo_evento": "A Brincar com Poesia — Uma aventura literária em família",
+            "sinopse_evento": "Inserido na programação do FIPP - Festival Internacional de Poesia do Porto, propomos uma manhã dedicada às família com jogos de tabuleiro e atividades sobre curiosidades sobre a vida e a obra de poetas numa oficina dinamizada pelo Coletivo Candela",
+            "data_evento": "04/08",
+            "hora_evento": "10h30 & 11h45",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Lab",
+            "interveniente01": "Coletivo Candela",
+            "interveniente02": "",
+            "interveniente03": "",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "Lotação: 8 famílias por sessão. Duração: 45 minutos por sessão. A partir dos 8 anos. Inscrições: se.mnsr@museusemonumentos.pt",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Walks",
+            "titulo_evento": "&#8220;O tempo da amizade&#8221;, visita orientada, com Ana Mântua e Dália Dias",
+            "sinopse_evento": "Inserido na programação do FIPP - Festival Internacional de Poesia do Porto, e em estreita colaboração com o Museu Nacional Soares dos Reis, convidamos-vos a descobrir as ligações entre os artistas da exposição \nO museu morreu, viva um museu vivo \n, através das suas amizades e desencontros. Mergulhem na atmosfera cultural do Porto da época, onde cafés, espaços associativos e tertúlias clandestinas eram palco de resistência e criação artística. Através de leituras de poemas e textos da época, reavivamos a importância da amizade na luta pela liberdade e na construção de um legado artístico que desafiou a censura e moldou a cultura da cidade.",
+            "data_evento": "04/08",
+            "hora_evento": "15h30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Walk",
+            "interveniente01": "Ana Mântua",
+            "interveniente02": "Dália Dias",
+            "interveniente03": "",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "Inscrições: se.mnsr@museusemonumentos.pt",
+            "imagens": ""
         }
     ]
 }
