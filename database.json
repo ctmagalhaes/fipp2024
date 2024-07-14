@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "titulo_evento": "Abertura do Festival",
+            "sinopse_evento": "",
+            "data_evento": "26/07",
+            "hora_evento": "18H",
+            "local_evento": "Green Garden Pestana Palácio",
+            "rubrica_evento": "Poetry Talks",
+            "interveniente01": "Inês Lourenço",
+            "interveniente02": "Chus Pato",
+            "interveniente03": "José Manuel",
+            "interveniente04": "",
+            "interveniente05": "",
+            "sinopse_intervenientes": "",
+            "info_essenciais": "",
+            "imagens": "images/Autores3.png"
+        }
+    ]
+}
