@@ -70,7 +70,7 @@
             "sinopse_interveniente02": "<b>Tiago Alves Costa</b> nasceu em 1980 em Vila Nova de Famalicão. É poeta, dramaturgo e tradutor.\nPublicou livros de poesia, como \"Žižek vai ao Ginásio\" (2019) e \"Mecanismo de Emergência\" (2016) e o livro de contos \"W.C. constrangido\" (2012). É licenciado em Publicidade pelo ISCET (Portugal) com uma Pós-Graduação em Criatividade e Inovação pela Tompkins Cortland Community College (E.U.A). Integra a Associação Galega da Língua (AGAL) e é o primeiro português a fazer parte da Asociación de Escritoras e Escritores em Lingua Galega (AELG).",
             "sinopse_interveniente03": "<b>Ismael Ramos</b> nasceu em Mazaricos, no interior da Costa da Morte, em 1994. É professor e escritor.\nPublicou os poemários \"Os fillos da fame\" (2016), \"Lumes\" (2017) e \"Lixeiro\" (2021), pelo qual recebeu o Prémio Nacional de Poesia Jovem em 2022. Seu último livro traduzido para o espanhol é o livro de contos \"La parte fácil\" (las afueras, 2023).",
             "sinopse_interveniente04": "",
-            "info_essenciais": "> No Museu Soares dos Reis, dia 28 de Julho às 15h30.\n> Com Marta Bernardes [PT], Tiago Alves Costa [PT] & Ismael Ramos [GAL].\n> Acesso livre e gratuito até a lotação esgotar, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> Duração: ≈1h.",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 28 de Julho às 15h30.\n> Com Marta Bernardes [PT], Tiago Alves Costa [PT] & Ismael Ramos [GAL].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
             "imagens": "https://ctmagalhaes.github.io/fipp2024/imagens/Talks2.png"
         },
 
@@ -91,7 +91,7 @@
             "sinopse_interveniente02": "<b>Ana Rocha</b> é produtora, curadora, coreógrafa, performer, dramaturga e escritora. Estudou História da Arte, Arte Contemporânea e Artes Visuais. Co-dirigiu e fundou a MEZZANINE. Foi membro de outras estruturas culturais e colaborou na produção de diversos festivais.",
             "sinopse_interveniente03": "<b>Marga Tojo</b>, nascida em Santiago de Compostela, é poeta e jornalista, colaborando com vários média digitais como \"Praza Pública\", \"Eldiario\" ou o diario \"Público\", bem como a \"Revista Luzes\", a \"Revista do Audiovisual Galego\" e o canal televisivo \"Galizaanocero\".\nÉ membro do conselho editorial de Altermundo.org, foi co-fundadora e presidente do jornal \"Dioivo\" e trabalhou durante anos no diário \"Galicia Hoxe\", onde coordenou a seção de política social e o suplemento cultural. Participou na equipa do festival \"Cineuropa\" na capital galega.\nExpressou publicamente o seu activismo por causas como a normalização da língua galega, o direito ao aborto ou a promoção de modelos alternativos de maternidade e cuidado infantil numa perspectiva feminista e de progresso. Os seus livros publicados incluem títulos como \"Arder\" (2021), \"Maternidade fóra de catálogo\" (2018), \"Cara de velocidade\" (2018) e \"Últimos bruídos\" (2016).",
             "sinopse_interveniente04": "<b>Miguel Royo</b> nasce em Espanha em 1993 e, após uma breve passagem por Bruxelas durante a infância, estabelece-se no Porto. Cursa Arquitectura na Universidade desta cidade. A formação académica é marcada por interesses paralelos que abrangem as áreas do cinema e da literatura, confluindo na dissertação final de mestrado sobre o filme “Stalker” de Tarkovsky, na qual explora as significações dos espaços cinematográficos e a sua relação com as personagens-usuários. Colabora com revistas e sites ligados à poesia, como a revista \"Caliban\" e \"Enfermaria 6\". Realizou, até ao momento, duas curtas-metragens: \"ÍPSILON\" (2014) e \"Sueño Ivre In The Red Haus\" (2019). É de 2021 o seu primeiro livro de poesia, de título \"Na Pedra a Luz Afia o Gume\".",
-            "info_essenciais": "> No Museu Soares dos Reis, dia 03 de Agosto às 15h30.\n> Com Fernando António Machado [PT], Ana Rocha [PT], Marga Tojo [GAL] & Miguel Royo [PT].\n> Acesso livre e gratuito até a lotação esgotar, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> Duração: ≈1h.",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 03 de Agosto às 15h30.\n> Com Fernando António Machado [PT], Ana Rocha [PT], Marga Tojo [GAL] & Miguel Royo [PT].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
             "imagens": "https://ctmagalhaes.github.io/fipp2024/imagens/Talks3.png"
         },
 
@@ -141,6 +141,150 @@
             "sinopse_interveniente04": "",
             "info_essenciais": "> No Museu Soares dos Reis, dia 04 de Agosto às 15h30.\n> Com Ana Anjos Mântua [PT] & Dália Dias [PT].\n> Acesso livre e gratuito até a lotação esgotar, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> Duração: ≈1h.",
             "imagens": "https://ctmagalhaes.github.io/fipp2024/imagens/Walks1.png"
+        },
+
+        {
+            "category": "Poetry Talks",
+            "titulo_evento": "Rosa Alice Branco [PT], Xosé María Álvarez Cáccamo [GAL] & Olga Novo [GAL]",
+            "sinopse_evento": "Poetas de Portugal e da Galiza reúnem-se para discutir o poder da poesia em questionar, desconstruir e reconstruir o mundo. Olga Novo, Xosé María Álvarez Cáccamo e Rosa Alice Branco, exploram as novas tendências e desafios da poesia contemporânea, refletindo sobre o tema do festival \"Ruir\". Uma conversa aberta e informal, onde a poesia se torna ferramenta de transformação.",
+            "data_evento": "14/09",
+            "hora_evento": "15h30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Talk",
+            "sinopse_interveniente01": "<b>Rosa Alice Branco</b> nasceu em 1950 e é Mestre em Filosofia do Conhecimento pela Universidade Nova de Lisboa, com uma tese sobre a perceção visual em Berkeley. Ensina psicologia da perceção na Escola Superior de Artes e Design. Participou no Grupo de Estudos de Semiótica e Poética do Porto, tendo sido uma das responsáveis pela revista Figuras e pertence à direção da revista Limiar.\nPublica poesia desde 1988 com o livro \"Animais da Terra\", seguindo-se títulos como \"Monadologia Breve\" (1991), \"A Mão Feliz\" (1994), \"O Único Traço do Pincel\" (1997), \"Da Alma e dos Espíritos Animais\" (2001), \"Animal Volátil\" (com Casimiro de Brito) (2002), \"Gado Do Senhor\" (2011), \"Concerto ao Vivo\" (2012), \"Traçar um Nome no Coração do Branco\" (2018) e \"Amor Cão e outras palavras que se adestram\" (2022), entre outros. A sua poesia, refletindo sobre paradoxos filosóficos e linguísticos, ocupa um lugar único na poesia portuguesa contemporânea.",
+            "sinopse_interveniente02": "<b>Xosé María Álvarez Cáccamo</b> nasceu em Vigo no ano de 1950. É professor de Literatura, poeta e crítico literário. Publica também obras de carácter narrativo, teatral e literatura infanto-juvenil. Cria poemas-objecto e visuais.\nÉ autor dos seguintes livros de poesia:  \"Praia das furnas\" (1983), \"Arquitecturas de cinza\" (1985), \"Os documentos da sombra\" (1986), \"Luminoso lugar de abatimento\" (1987), \"Cimo das idades tristes\" (1988), \"Fragmentos de mar\" (1989), \"O lume branco\" (1991), \"Colección de espellos\" (1994), \"A escrita das aves de marzo\" (1997), \"Calendario perpetuo\" (1997), \"Os cadernos da ira\" (1999), \"Vocabulario das orixes\" (2000), \"Depósito natural\" (2002), \"Vilar dos fillos\" (2004), \"Vento de sal\" (2008) e mais recentemente \"Criptografías\" (2022), \"Serendos obsolimos\" (2022) e \"A liña da vida\" (2023).\nComo poeta recebeu o prémio \"Esquío\" (1986), o prémio da Asociación de Críticos de España (1987), o prémio da Crítica de Galiza (1998), o prémio \"González Garcés\" (1999), o prémio \"Arume de Poesía para Nenos\" (2001), o prémio da Asociación de Escritores en Lingua Galega (2004), o prémio \"Irmandade do Libro\" (2007) e o prémio da Cultura Galega de Letras (2018). A sua obra foi traduzida para Catalão, Castelhano, Basco e Italiano.",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 14 de Setembro às 15h30.\n> Com Rosa Alice Branco [PT], Xosé María Álvarez Cáccamo [GAL] & Olga Novo [GAL].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Labs",
+            "titulo_evento": "\"Escrevo, logo sou livre\"",
+            "sinopse_evento": "A oficina de ecsrita criativa para poesia \"Escrevo, logo sou livre\" da Raquel Patriarca propõe uma reflexão sobre a escrita criativa como ferramenta de pensamento livre e expressão individual. A oficina explora a importância da escrita na comunicação, no entendimento do mundo e na busca por clareza nas ideias, além de desconstruir ideias preconcebidas sobre a poesia e o ofício da escrita.",
+            "data_evento": "15/09",
+            "hora_evento": "10h30 & 11h45",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Lab",
+            "sinopse_interveniente01": "",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 15 de Setembro às 10h30 & às 11h45.\n> Com Raquel Patriarca [PT].\n> Acesso livre e gratuito, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> N.º de sessões: 2.\n> Lotação: 8 adultos por sessão.\n> Duração: 45min por sessão.\n> Idade: A partir dos XX anos.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Sounds",
+            "titulo_evento": "\"O ZINGARELHO: das ruínas fazemos confetti\"",
+            "sinopse_evento": "Em “O Zingarelho” — mecanismo poético-musical que não se rala com suas próprias avarias —, Pedro de Queirós Tavares interpreta uma selecção de poemas sobre trechos musicais mais ou menos improvisados no momento pelo teclista Miguel Moura. Continuando o teste à cumplicidade entre os dois, esta edição parte do mote do FIPP — ruir — para levar a palco uma sessão exclusiva de \"palavreamento musicado\", desta vez vinculada ao título \"das ruínas fazemos confetti.\"",
+            "data_evento": "15/09",
+            "hora_evento": "15h30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Sound",
+            "sinopse_interveniente01": "",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 15 de Setembro às 15h30.\n> Com Pedro de Queirós Tavares [PT] e Miguel Moura [PT].\n> Acesso livre e gratuito.\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Walks",
+            "titulo_evento": "\"Naquela idade em que se é conde assim...\". Um percurso poético pelos Caminhos do Romântico\"",
+            "sinopse_evento": "Partindo da Avenida das Tílias do Palácio de Cristal, através da poesia, do cinema, da música e das artes visuais são perscrutados os murmúrios camuflados do passado perante as marcas de um presente em constante mudança nos Caminhos do Romântico. Este percurso conduz-nos do Palácio, onde, na década de trinta, uma tímida menina recitou um poema, e onde ecoavam ainda as bandas que enchiam a Concha Acústica, pela Rua de Entre Quintas e pela sua mutação em veredas e lajeados, pelos interstícios de uma cidade onde a civilização do automóvel se aventura, mas não entra. Entre quintarolas e flores silvestres que conquistam terreno aos muros de granito, descemos à Rua da Restauração, desembocando num tempo que é o nosso apenas na aparência, na teimosia de um elétrico que nasceu nesta rua no final de oitocentos, pois superou o cavalo que a não subia ou descia. Já não temos o fumo das fábricas, mas apenas a gravidade utilitária de fachadas regulares que se impunham no Porto ribeirinho, rasgando a régua e esquadro o lugar de Massarelos. Passando pela sua igreja onde, sob a proteção de São Gonçalo Telmo e o olhar sonhado do Infante se finda o nosso percurso, confrontando o rio e as conquistas do betão da ponte e das estruturas que, na sua poesia moderna quase faz esquecer que o \"rio de mau navegar\" perdurou tantos anos. E percorrendo o alto castelo da cidade, onde o lápis-lazúli e coral de António Nobre são substituídos pelo granito e pelo azulejo, reencontramos a candura da eterna infância do Porto Romântico, a sua esperança de progresso, e a sua nostalgia do passado, onde, por momentos, podemos voltar a ter aquela idade em que se é conde assim...",
+            "data_evento": "15/09",
+            "hora_evento": "17h30",
+            "local_evento": "Passeio do Romântico",
+            "rubrica_evento": "Poetry Walks",
+            "sinopse_interveniente01": "",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Passeio do Romântico, dia 15 de Setembro às 17h30.\n> Com Hugo Barreira [PT].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Sounds",
+            "titulo_evento": "\"\"",
+            "sinopse_evento": "No âmbito do FIPP - Festival Internacional de Poesia do Porto, o Coletivo Sinestéticas apresenta uma performance sonora única, explorando o tema \"Ruir\". Através da declamação de poemas, os membros do coletivo convidam o público a refletir sobre a destruição, a transformação e o renascimento. Uma experiência imersiva que celebra a força da palavra e a sua capacidade de dar voz às ruínas e aos novos começos.",
+            "data_evento": "15/09",
+            "hora_evento": "18h",
+            "local_evento": "A Brasileira",
+            "rubrica_evento": "Poetry Sound",
+            "sinopse_interveniente01": "",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No A Brasileira, dia 15 de Setembro às 18h.\n> Com Coletivo Sinestéticas [PT].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Labs",
+            "titulo_evento": "\"Oficina de Escrita Criativa\"",
+            "sinopse_evento": "Integrado no FIPP - Festival Internacional de Poesia do Porto, este Poetry Lab convida-o a participar no processo criativo do Coletivo Sinestéticas, através de exercícios práticos que o ajudarão a desenvolver os seus próprios poemas. Uma oficina de escrita criativa conduzida por Anderson Antonangelo, Taynnã Santos e Vitor Varella.",
+            "data_evento": "20/10",
+            "hora_evento": "10h30 & 11h45",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Lab",
+            "sinopse_interveniente01": "",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 20 de Outubro às 10h30 & às 11h45.\n> Com Coletivo Sinestéticas [PT].\n> Acesso livre e gratuito, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> N.º de sessões: 2.\n> Lotação: 8 adultos por sessão.\n> Duração: 45min por sessão.\n> Idade: A partir dos XX anos.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Walks",
+            "titulo_evento": "\"Artistas mulheres, poesia e liberdade\"",
+            "sinopse_evento": "Ser mulher para as artistas representadas na exposição de longa duração não foi uma condição limitadora à sua afirmação e reconhecimento num mundo de domínio maioritariamente masculino.\nAs obras, vivências e percursos destas artistas, nascidas entre os séculos XVII e XX, são o ponto de partida para uma visita que se completa com poesia assinada por mulheres que viveram na mesma época, em circunstâncias similares.\nA partir da contemplação de peças de Josefa d’Óbidos, Francisca de Almeida Furtado, Maria da Glória Ribeiro, Sofia e Aurélia de Souza, Sarah Afonso e Irene Vilar e das circunstâncias em que trabalharam, faz-se a ligação a poetas como Soror Maria do Céu, Antónia Pusich, Marta Câmara, Judith Teixeira, Maria O’Neil, Maria Osswald e Sophia de Mello Breyner.",
+            "data_evento": "20/10",
+            "hora_evento": "15h",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Lab",
+            "sinopse_interveniente01": "<b>Ana Magalhães</b> é licenciada em Ciências da Comunicação pela Universidade do Minho (2003), começou a trabalhar como jornalista nos jornais Público (2003) e O Primeiro de Janeiro (2003-2007). De 2007 a 2020 integrou o Gabinete de Marketing e Comunicação da Comissão de Coordenação e Desenvolvimento Regional do Norte e trabalhou em ações de ativação de marca, assessoria de imprensa e comunicação online. Entre 2020 e 2024 fez parte da equipa do Museu Nacional de Soares dos Reis, onde foi responsável pela implementação da estratégia de Comunicação da instituição e onde participou em atividades do Serviço de Educação como a celebração do Dia Mundial da Poesia.",
+            "sinopse_interveniente02": "<b>Liliana Aguiar</b> é licenciada em História pela Universidade de Coimbra e Mestre em Museologia pela Faculdade de Letras da Universidade do Porto. Iniciou a carreira profissional em museus em 2001, na área da educação e da mediação patrimonial. De outubro de 2018 a fevereiro de 2023 exerceu funções na Rede de Museus de Vila Nova de Famalicão. Atualmente, desde março de 2023, exerce funções no Serviço de Educação do Museu Nacional Soares dos Reis. Tem como principais interesses de investigação a educação em museus, a mediação patrimonial e a avaliação aplicada à museologia.",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 20 de Outubro às 18h.\n> Com Ana Magalhães [PT] & Liliana Aguiar [PT].\n> Acesso livre e gratuito até a lotação esgotar, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Sounds",
+            "titulo_evento": "\"De centeo e durmideiras\"",
+            "sinopse_evento": "De centeio e dormideiras traça uma viagem multissensorial a uma ilha utópica onde fauna, flora e corpo se fundem numa orografia singular. O periplo poético, herdeiro no seu imaginário de Safo e Alceu, pretende agitar quem lê, ouve e encarna os versos de Rosalía Fernández Rial (Muxía, A Coruña, 1988).\nA sinestesia é a base de um ritual expansivo que nos submerge numa experiência expansiva sem volta. Como vem fazendo nos seus trabalhos artísticos, Rosalía Fernández Rial propõe propagar o poético além dos livros que escreve e misturá-lo com outras artes como a cénica, a musical ou a audiovisual.",
+            "data_evento": "26/10",
+            "hora_evento": "15h30",
+            "local_evento": "Museu Soares dos Reis",
+            "rubrica_evento": "Poetry Sound",
+            "sinopse_interveniente01": "<b>Rosalia Fernandes Rial</b> é ",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Museu Soares dos Reis, dia 26 de Outubro às 15h30.\n> Com Rosalia Fernandes Rial [GAL].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
+            "imagens": ""
+        },
+
+        {
+            "category": "Poetry Talks",
+            "titulo_evento": "Esther F. Carrodeguas [GAL], Samuel L. Paris [GAL], Francisca Camelo [PT] & Emanuel Madalena [PT]",
+            "sinopse_evento": "",
+            "data_evento": "27/10",
+            "hora_evento": "15h",
+            "local_evento": "Palácio do Freixo",
+            "rubrica_evento": "Poetry Talk",
+            "sinopse_interveniente01": "<b>Francisca Camelo</b> nasceu no Porto em 1990: é poeta e diseuse.\nTem poemas espalhados em diversas antologias e revistas, sobretudo em Portugal e na América Latina, tendo sido traduzida em espanhol, grego, francês e alemão.\nAutora de \"Cassiopeia\" (Apuro Edições, 2018); \"Photoautomat\" (Enfermaria 6, 2019); \"O Quarto Rosa\" (semi-finalista do Prémio Oceanos 2019, Corsário-Satã (Brasil)), \"A Importância do Pequeno-almoço\" (Fresca Edições, 2020), \"Quem me comeu a carne\" (Nova Mymosa, 2022) e do libreto para a ópera \"Torre da Memória\" (Quarteto Contratempus, 2022).",
+            "sinopse_interveniente02": "",
+            "sinopse_interveniente03": "",
+            "sinopse_interveniente04": "",
+            "info_essenciais": "> No Palácio do Freixo, dia 27 de Outubro às 15h.\n> Com Esther F. Carrodeguas [GAL], Samuel L. Paris [GAL], Francisca Camelo [PT] & Emanuel Madalena [PT].\n> Acesso livre e gratuito até a lotação esgotar.\n> Duração: ≈1h.",
+            "imagens": ""
         }
     ]
 }
