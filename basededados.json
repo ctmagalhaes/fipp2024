@@ -24,7 +24,7 @@
         {
             "category": "Poetry Sounds",
             "titulo_evento": "\"Camiño do meu contento\"",
-            "sinopse_evento": "Ao cruzar o rio Minho, fronteira natural com a Galiza, não sentimos que entramos noutro país, mas sim que percorremos a mesma paisagem, língua e cultura. A história da Galiza e do norte de Portugal é comum desde os primórdios até à separação no século XII, que foi apenas territorial, mantendo sempre o diálogo e identidades comuns. \"Camiño do meu contento\" expressa o orgulho dessa origem partilhada, de um povo culturalmente rico e ancestralmente lutador pela liberdade.\nCom Alexandra Cordeiro e Fernando Mota.",
+            "sinopse_evento": "Ao cruzar o rio Minhso, fronteira natural com a Galiza, não sentimos que entramos noutro país, mas sim que percorremos a mesma paisagem, língua e cultura. A história da Galiza e do norte de Portugal é comum desde os primórdios até à separação no século XII, que foi apenas territorial, mantendo sempre o diálogo e identidades comuns. \"Camiño do meu contento\" expressa o orgulho dessa origem partilhada, de um povo culturalmente rico e ancestralmente lutador pela liberdade.\nCom Alexandra Cordeiro e Fernando Mota.",
             "data_evento": "27/07",
             "hora_evento": "18H",
             "local_evento": "A Brasileira",
@@ -214,13 +214,13 @@
 
         {
             "category": "Poetry Sounds",
-            "titulo_evento": "\"\"",
+            "titulo_evento": "\"Ecos\"",
             "sinopse_evento": "No âmbito do FIPP - Festival Internacional de Poesia do Porto, o Coletivo Sinestéticas apresenta uma performance sonora única, explorando o tema \"Ruir\". Através da declamação de poemas, os membros do coletivo convidam o público a refletir sobre a destruição, a transformação e o renascimento. Uma experiência imersiva que celebra a força da palavra e a sua capacidade de dar voz às ruínas e aos novos começos.",
             "data_evento": "15/09",
             "hora_evento": "18h",
             "local_evento": "A Brasileira",
             "rubrica_evento": "Poetry Sound",
-            "sinopse_interveniente01": "",
+            "sinopse_interveniente01": "<b>Coletivo Sinestéticas</b> foi formado no ano de 2019, em Braga. Ao longo dos últimos cinco anos, agregou a seu corpo artistas de nacionalidades diversas, que habitam ao menos três continentes, e são especializados em variadas áreas de produção. O coletivo já produziu mais de 1800 peças artísticas, e tem um livro publicado, \"Posfácios\" (Urutau, 2021).",
             "sinopse_interveniente02": "",
             "sinopse_interveniente03": "",
             "sinopse_interveniente04": "",
@@ -231,14 +231,14 @@
         {
             "category": "Poetry Labs",
             "titulo_evento": "\"Oficina de Escrita Criativa\"",
-            "sinopse_evento": "Integrado no FIPP - Festival Internacional de Poesia do Porto, este Poetry Lab convida-o a participar no processo criativo do Coletivo Sinestéticas, através de exercícios práticos que o ajudarão a desenvolver os seus próprios poemas. Uma oficina de escrita criativa conduzida por Anderson Antonangelo, Taynnã Santos e Vitor Varella.",
+            "sinopse_evento": "Integrado no FIPP - Festival Internacional de Poesia do Porto, este Poetry Lab convida-o a participar no processo criativo do Coletivo Sinestéticas, através de exercícios práticos que o ajudarão a desenvolver os seus próprios poemas. Uma oficina de escrita criativa conduzida por Vitor Varella, Taynnã Santos e Anderson Antonangelo.",
             "data_evento": "20/10",
             "hora_evento": "10h30 & 11h45",
             "local_evento": "Museu Soares dos Reis",
             "rubrica_evento": "Poetry Lab",
-            "sinopse_interveniente01": "",
-            "sinopse_interveniente02": "",
-            "sinopse_interveniente03": "",
+            "sinopse_interveniente01": "Vitor Varella é licenciado em Direito e mestre em Teoria da Literatura. É um dos fundadores do coletivo Sinestéticas.",
+            "sinopse_interveniente02": "Taynnã de Camargo Santos é doutorando em Modernidades Comparadas pela Universidade do Minho, com formações em literatura, estudos culturais, comunicação e design. Cofundador do coletivo Sinestéticas.",
+            "sinopse_interveniente03": "Anderson Antonangelo é professor, jornalista e escritor; mestre em Teoria da Literatura pela Universidade do Minho. É autor de três livros de poesia e cofundador do Coletivo Sinestéticas.",
             "sinopse_interveniente04": "",
             "info_essenciais": "> No Museu Soares dos Reis, dia 20 de Outubro às 10h30 & às 11h45.\n> Com Coletivo Sinestéticas.\n> Acesso livre e gratuito, mediante inscrição para o e-mail: se.mnsr@museusemonumentos.pt (Nome + contacto).\n> N.º de sessões: 2.\n> Lotação: 8 adultos por sessão.\n> Duração: 45min por sessão.",
             "imagens": "https://ctmagalhaes.github.io/fipp2024/imagens/Labs4.png"
